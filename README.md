@@ -1,6 +1,4 @@
 # Sample of FNA on Android using the SDL3 Backend
-Code is from the public domain, made by flibitijibibo
-https://gist.github.com/flibitijibibo/27c486c236301b49b650
 
 Current Progress  
 Initial Tests using https://gist.github.com/flibitijibibo/27c486c236301b49b650 worked without editing FNA  
