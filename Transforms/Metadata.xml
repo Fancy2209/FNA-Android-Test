@@ -1,9 +1,0 @@
-﻿<metadata>
-  <!-- Binding Generator did not find these -->
-  <add-node path="/api/package[@name='org.libsdl.app']">
-    <class name="SDLHapticHandler" />
-    <class name="SDLJoystickHandler" />
-    <class name="SDLClipboardHandler" />
-    <class name="SDLGenericMotionListener_API12" />
-  </add-node>
-</metadata>

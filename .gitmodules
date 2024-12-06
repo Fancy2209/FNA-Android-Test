@@ -1,0 +1,4 @@
+[submodule "FNA"]
+	path = FNA
+	url = https://github.com/Fancy2209/FNA
+	branch = Android
