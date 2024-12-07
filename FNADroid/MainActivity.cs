@@ -15,6 +15,8 @@ using SDL3Droid;
       | ConfigChanges.SmallestScreenSize
       | ConfigChanges.Touchscreen
       | ConfigChanges.UiMode,
+    Icon="@mipmap/ic_launcher",
+	RoundIcon="@mipmap/ic_launcher",
     Exported = true,
     LaunchMode = LaunchMode.SingleInstance,
     MainLauncher = true)]
